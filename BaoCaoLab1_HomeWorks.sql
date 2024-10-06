@@ -85,7 +85,6 @@
 	SELECT DISTINCT LoaiKyNang
 	FROM KyNang;
 
-
 -- 69. Hiển thị họ tên và email của 5 chuyên gia đầu tiên trong danh sách.
 	SELECT TOP 5 HoTen, Email
 	FROM ChuyenGia;
